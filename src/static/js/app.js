@@ -1,3 +1,7 @@
+<header class="page-header">
+    <h1>ToDo App by Sho Ito</h1>
+</header>
+
 function App() {
     const { Container, Row, Col } = ReactBootstrap;
     return (
